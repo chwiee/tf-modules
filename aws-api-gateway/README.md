@@ -4,7 +4,7 @@
 
 This repository is a terraform module for provisioning an API Gateway on AWS, the module creates all the resources according to what is described in the variable file of the child module
 
-## How this work
+## HOW THIS WORK
 
 To make the module work just Use the example in [routes.tf](/test-iac/routes.tf)
 
@@ -16,6 +16,6 @@ U need to pass:
 - _authorization_: Auth type (NONE, AWS_IAM, LAMBDA or Other).
 - _target_url_: Full url to application
 
-## Tks
+## TKS
 
 Wallace Bruno :)
