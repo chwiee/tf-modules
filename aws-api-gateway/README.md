@@ -6,7 +6,7 @@ This repository is a terraform module for provisioning an API Gateway on AWS, th
 
 ## HOW THIS WORK
 
-To make the module work just Use the example in [routes.tf](/test-iac/routes.tf)
+To make the module work just Use the example in [routes.tf](./test-iac/routes.tf)
 
 
 U need to pass:
